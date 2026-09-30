@@ -1,0 +1,18 @@
+project name: receit-generator  
+author-name: ntokozo maselela
+email: shaunmaselela25@icloud.com
+
+description:
+A small JavaScript program that demonstrates variables and data types.
+It takes a product name, unit price, quantity (received as a string, as
+if from a form field) and VAT rate, converts the quantity to a number,
+and prints a receipt with subtotal, tax and total in rand. It also
+demonstrates what happens when a non-numeric quantity is converted 'NAN'
+and how a real application should handle it.
+
+how it run:
+You need to have node.js installed
+
+then save the file receipt-generator.js
+open the terminal and run 
+'node receipt-generator'
